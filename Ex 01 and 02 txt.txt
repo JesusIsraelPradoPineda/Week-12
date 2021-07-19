@@ -1,0 +1,7 @@
+Alumno 1
+Primera Calificacion: 10.0
+Segunda Calificacion: 9.0
+Tercera Calificacion: 9.0
+Cuarta Calificacion: 9.0
+Calificacion Final: 9.2
+
