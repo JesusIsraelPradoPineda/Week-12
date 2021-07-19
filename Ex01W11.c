@@ -8,6 +8,7 @@
  * *
  * Usage: *
  * put the numbers of students and then put they respectives scores  *
+ ********************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 
