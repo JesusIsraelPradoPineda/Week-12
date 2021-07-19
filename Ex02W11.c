@@ -1,3 +1,15 @@
+
+/********************************************************
+ * ExOriginal2 -- reading of grades. *
+ * Not an especially earth-shattering program. *
+ * *
+ * Author: Israel Prado. *
+ * *
+ * Purpose: Read the txt with the score. *
+ * *
+ * Usage: *
+ * run the program*
+ ********************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 
